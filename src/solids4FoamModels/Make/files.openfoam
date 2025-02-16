@@ -186,6 +186,7 @@ functionObjects/stressTriaxiality/stressTriaxiality.C
 functionObjects/transformStressToCylindrical/transformStressToCylindrical.C
 functionObjects/volumetricStrain/volumetricStrain.C
 functionObjects/fsiConvergenceData/fsiConvergenceData.C
+functionObjects/PiolaKirchhoffStresses/PiolaKirchhoffStresses.C
 
 numerics/amiZoneInterpolation/amiZoneInterpolation.C
 numerics/AMIInterpolationS4F/AMIInterpolationS4F.C

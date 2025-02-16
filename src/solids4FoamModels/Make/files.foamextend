@@ -184,6 +184,7 @@ functionObjects/stressTriaxiality/stressTriaxiality.C
 functionObjects/transformStressToCylindrical/transformStressToCylindrical.C
 functionObjects/volumetricStrain/volumetricStrain.C
 functionObjects/fsiConvergenceData/fsiConvergenceData.H
+functionObjects/PiolaKirchhoffStresses/PiolaKirchhoffStresses.C
 
 
 dynamicFvMesh/simpleCrackerFvMesh/simpleCrackerFvMesh.C
