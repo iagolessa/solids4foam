@@ -170,6 +170,8 @@ functionObjects/hydrostaticPressure/hydrostaticPressure.C
 functionObjects/plateHoleAnalyticalSolution/plateHoleAnalyticalSolution.C
 functionObjects/principalStresses/principalStresses.C
 functionObjects/principalStresses/principalStressFields.C
+functionObjects/principalStretches/principalStretches.C
+functionObjects/principalStretches/principalStretchFields.C
 functionObjects/solidDisplacements/solidDisplacements.C
 functionObjects/solidForces/solidForces.C
 functionObjects/solidForcesDisplacements/solidForcesDisplacements.C
